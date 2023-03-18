@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "aura_magnetized:basic_magnet",
+    "aura_magnetized:empowered_magnet",
+    "aura_magnetized:advanced_magnet"
+  ]
+}

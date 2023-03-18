@@ -1,0 +1,2 @@
+include ':AuraAPI'
+project(':AuraAPI').projectDir = new File("/../1.18.2-forge_AuraAPI")

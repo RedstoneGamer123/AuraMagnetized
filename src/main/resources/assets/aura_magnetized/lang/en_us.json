@@ -1,0 +1,9 @@
+{
+  "itemGroup.aura_magnetized.main": "Aura Magnetized",
+
+  "item.aura_magnetized.basic_magnet": "Magnet (Basic)",
+  "item.aura_magnetized.empowered_magnet": "Magnet (Empowered)",
+  "item.aura_magnetized.advanced_magnet": "Magnet (Advanced)",
+
+  "block.aura_magnetized.basic_coil_block": "Coil Block (Basic)"
+}

@@ -1,0 +1,47 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="All rights reserved"
+
+issueTrackerURL="https://github.com/RedstoneGamer123/AuraMagnetized/issues"
+
+[[mods]]
+modId="aura_magnetized"
+displayName="AuraMagnetized"
+version="1.0.0"
+
+updateJSONURL="https://github.com/RedstoneGamer123/AuraMagnetized/blob/forge-master/update.json"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/auramagnetized"
+logoFile="logo.png"
+#credits="Thanks for this example mod goes to Java"
+authors="SpokenWig620933"
+description='''
+  A complex, yet simple, magnet mod.
+  '''
+
+[[dependencies.aura_magnetized]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40.2.0,41.0.0)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.aura_magnetized]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19.0)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.aura_magnetized]]
+    modId="auraapi"
+    mandatory=true
+    versionRange="[1.0.0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.aura_magnetized]]
+    modId="curios"
+    mandatory=false
+    versionRange="[1.18.2-5.0.7.1,)"
+    ordering="AFTER"
+    side="BOTH"

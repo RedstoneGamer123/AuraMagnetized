@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false":  { "model": "aura_magnetized:block/basic_coil_block" },
+        "powered=true": { "model": "aura_magnetized:block/basic_coil_block" }
+    }
+}
